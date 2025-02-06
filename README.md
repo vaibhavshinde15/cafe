@@ -19,5 +19,5 @@ Located near the iconic Pimlico Race Course, the Pimlico Cafe offers a cozy atmo
 2. A taste of local history in every bite<br>
 3. Friendly staff and community vibes
 Contributor
-<a href="github.com/tejasavhad4674"> Tejas Avhad<a>
+<a href="https://github.com/tejasavhad4674"> Tejas Avhad<a>
 
