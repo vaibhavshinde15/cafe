@@ -17,4 +17,9 @@ Located near the iconic Pimlico Race Course, the Pimlico Cafe offers a cozy atmo
 ✨ Why You Should Visit<br>
 1.Cozy ambiance perfect for a casual meal<br>
 2. A taste of local history in every bite<br>
+<<<<<<< HEAD
 3. Friendly staff and community vibes
+=======
+3. Friendly staff and community vibes <br>
+
+>>>>>>> de267a042da141a0b10db88a48e8dcda247e00de
